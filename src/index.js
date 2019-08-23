@@ -2,7 +2,7 @@ import HelloWorldButton from './components/hello-world-button/hello-world-button
 import Heading from './components/heading/heading.js';
 import addImage from './add-image';
 import 'bootstrap';
-import './index.scss'
+import './index.scss';
 
 const heading = new Heading();
 const helloWorldButton = new HelloWorldButton();
