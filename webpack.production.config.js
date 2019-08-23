@@ -44,9 +44,6 @@ module.exports = {
                     'sass-loader'
                 ]
             }, 
-                    'sass-loader'
-                ]
-            },
             {
                 test: /\.js$/,
                 exclude: /node_modules/,
